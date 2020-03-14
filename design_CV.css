@@ -1,0 +1,116 @@
+a
+{
+text-decoration: none;
+color: black;
+}
+
+a:hover
+{
+color: teal; 
+}
+
+h1
+{
+    text-indent: 30px;
+    text-align: left;
+    font-size: 16px;
+    font-family: "Comic Sans MS";
+}
+
+p1
+{
+    color: navy;
+    font-family: Georgia;
+}
+
+p3
+{
+    font-family: Georgia;
+    font-size: 14.5px;
+}
+
+p
+{
+    width: 95%;
+    margin: auto;
+    text-align: justify;
+    padding-right: 15px;
+    font-size: 15px;
+    font-family: "Georgia";
+}
+
+body
+{
+    background: black;
+    width: 650px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#en_tête
+{
+   width: 650px;
+   height: 100px;
+   background-image: url("raton3.jpg");
+   background-repeat: no-repeat;
+   margin-bottom: 10px;    
+}
+
+table
+{
+    width: 650px;
+    margin: auto;
+}
+
+td
+{
+    text-align: center;
+}
+
+#menu
+{
+    background: black;
+}
+
+#corps
+{
+    background: white;
+    padding-top: 5px;
+    margin-top: 10px;
+    font-size: 15px;
+    text-align: justify;
+}
+
+.navy
+{
+text-decoration: none;
+color: navy;
+}
+
+.white
+{
+text-decoration: none;
+color: white;
+font-family: "Comic Sans MS";
+}
+
+em
+{   
+    font-style: italic;
+}
+
+.element_header
+{
+    list-style-type: none;
+}
+
+.plante
+{
+    list-style-image: url("plante_puce.jpg");
+}
+
+.animal
+{
+    list-style-image: url("butterfly_2.jpg");
+}

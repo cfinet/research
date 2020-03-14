@@ -1,0 +1,91 @@
+a
+{
+text-decoration: none;
+color: black;
+}
+
+a:hover
+{
+color: teal; 
+}
+
+.a1
+{
+text-decoration: none;
+color: white;
+}
+
+h1
+{
+    text-indent: 30px;
+    text-align: left;
+    font-size: 16px;
+}
+
+img
+{
+    position: fixed;
+    right: 300px;
+    
+}
+body
+{
+    background: black;
+    width: 650px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;    
+}
+
+#en_tête
+{
+   width: 650px;
+   height: 100px;
+   background-image: url("raton3.jpg");
+   background-repeat: no-repeat;
+   margin-bottom: 10px;    
+}
+
+table
+{
+    width: 650px;
+    margin: auto;
+}
+
+td
+{
+    text-align: center;
+}
+
+#menu
+{
+    background: white;
+}
+
+#menu2
+{
+    float: right;
+    background: black;
+    font-family:"Georgia";
+    font-size: 15px;
+    color: white;
+    width: 200px;
+    margin-right: -25px;
+    margin-top: 17px;
+}
+
+#corps
+{
+    background: black;
+    color: black;
+    background-image: url("page3_650.png");
+    background-repeat: no-repeat;
+    background-position: -3px 30px;
+    height: 600px;
+}
+
+.white
+{
+text-decoration: none;
+font-family: Comic Sans MS;
+}
